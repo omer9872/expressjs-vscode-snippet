@@ -1,8 +1,9 @@
 # expressjs-vscode-snippet
 Key binding to perform CRUD methods faster.
 
+In Visual Studio Code type "Control + Shift + P" then type "Open Keyboard Shortcuts (JSON)"
+
 Paste your own combination to "Open Keyboard Shortcuts (JSON)"
-Control + Shift + P then type "Open Keyboard Shortcuts (JSON)"
 
 ```
 [
